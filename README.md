@@ -1,4 +1,4 @@
-"chess": {
+"Chess.com": {
       "command": "uvx",
       "args": [
         "--from",
