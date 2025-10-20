@@ -1,4 +1,4 @@
-"Demo": {
+"chess": {
       "command": "uvx",
       "args": [
         "--from",
